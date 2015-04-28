@@ -5,18 +5,20 @@ permalink:           pretty
 relative_permalinks: true
 
 # Setup
-title:               Lanyon
-tagline:             'A Jekyll theme'
-description:         'A reserved <a href="http://jekyllrb.com" target="_blank">Jekyll</a> theme that places the utmost gravity on content with a hidden drawer. Made by <a href="https://twitter.com/mdo" target="_blank">@mdo</a>.'
-url:                 http://lanyon.getpoole.com
-baseurl:             ''
+title:               "Dan's Summer of Code"
+tagline:             'My progress over the summer'
+description:         'During this summer I am going to rewrite the parser used in analyzing SQL queries. On this blog, I will post my progress and new interesting things that I learnt.'
+url:                 http://dan.ungureanu.tk
+baseurl:             '/gsoc-2015'
 paginate:            5
 
 # About/contact
 author:
-  name:              Mark Otto
-  url:               https://twitter.com/mdo
-  email:             markdotto@gmail.com
+  name:              Dan Ungureanu
+  url:               https://dan.ungureanu.tk
+  email:             dan@ungureanu.tk
 
 # Custom vars
-version:             1.0.0
+fork:                https://github.com/udan11/phpmyadmin
+abstract:            https://www.google-melange.com/gsoc/project/details/google/gsoc2015/udan11/5639274879778816
+proposal:            https://drive.google.com/file/d/0B-VJ3ClMYRHFQzZzbjdaZ2J5UE0/view?usp=sharing
