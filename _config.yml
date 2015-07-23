@@ -8,15 +8,15 @@ relative_permalinks: true
 title:               "Dan's Summer of Code"
 tagline:             'My progress over the summer'
 description:         'During this summer I am going to rewrite the parser used in analyzing SQL queries. On this blog, I will post my progress and new interesting things that I learnt.'
-url:                 http://dan.ungureanu.tk
+url:                 http://dan.ungureanu.me
 baseurl:             '/gsoc-2015'
 paginate:            5
 
 # About/contact
 author:
   name:              Dan Ungureanu
-  url:               https://dan.ungureanu.tk
-  email:             dan@ungureanu.tk
+  url:               https://dan.ungureanu.me
+  email:             dan@ungureanu.me
 
 # Custom vars
 fork:                https://github.com/udan11/phpmyadmin
